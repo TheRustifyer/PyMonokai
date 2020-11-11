@@ -29,7 +29,7 @@ A specific new set of colors are open to discuss or contribution.
 
 ## License
 
-· MIT, for further details, please see [LICENSE] (https://github.com/Pyzyyab/PyMonokai/LICENSE)
+· MIT, for further details, please see [LICENSE] (https://github.com/Pyzyyab/PyMonokai/LICENSE.txt)
 
 
 ## Support
