@@ -5,9 +5,9 @@ A darker variation of Monokai and One Dark Pro, with improved features to Python
 
 ## Screenshots
 
-![Screenshot 01](https://github.com/Pyzyyab/PyMonokai/origin/master/images/screenshots/photo1.png "Screenshot #01")
+![Screenshot 01](https://github.com/Pyzyryab/PyMonokai/blob/master/images/screenshots/photo1.png "Screenshot #01")
 
-![Screenshot 02](https://github.com/Pyzyyab/PyMonokai/origin/master/images/screenshots/photo2.png "Screenshot #02")
+![Screenshot 02](https://github.com/Pyzyryab/PyMonokai/blob/master/images/screenshots/photo1.png "Screenshot #02")
 
 ## Requirements
 
