@@ -6,6 +6,7 @@ A darker variation of Monokai and One Dark Pro, with improved features to Python
 ## Screenshots
 
 ![Screenshot 01](https://github.com/Pyzyyab/PyMonokai/origin/master/images/screenshots/photo1.png "Screenshot #01")
+
 ![Screenshot 02](https://github.com/Pyzyyab/PyMonokai/origin/master/images/screenshots/photo2.png "Screenshot #02")
 
 ## Requirements
@@ -29,7 +30,7 @@ A specific new set of colors are open to discuss or contribution.
 
 ## License
 
-· MIT, for further details, please see [LICENSE] (https://github.com/Pyzyyab/PyMonokai/LICENSE.txt)
+· MIT, for further details, please see [LICENSE] https://github.com/Pyzyryab/PyMonokai/blob/master/LICENSE.txt
 
 
 ## Support
