@@ -5,7 +5,7 @@ A darker variation of Monokai and One Dark Pro, with improved features to Python
 
 ## Screenshots
 
-![Screenshot 01](https://github.com/Pyzyryab/PyMonokai/blob/master/images/screenshots/photo1.png "Screenshot #01")
+![Screenshot 01](https://github.com/Pyzyryab/PyMonokai/blob/master/images/screenshots/photo2.png "Screenshot #01")
 
 ![Screenshot 02](https://github.com/Pyzyryab/PyMonokai/blob/master/images/screenshots/photo1.png "Screenshot #02")
 
@@ -18,7 +18,7 @@ A darker variation of Monokai and One Dark Pro, with improved features to Python
 
 · Icon made by [Freepik] from (https://www.flaticon.com)
 
-· See [contributors.md](https://github.com/Pyzyyab/PyMonokai/origin/master/contributors.md)
+· See [contributors.md](https://github.com/Pyzyryab/PyMonokai/blob/master/contributors.md)
 
 
 It's open for any kind of contribution. New features or modules and BugFixes are really welcome.
@@ -30,7 +30,7 @@ A specific new set of colors are open to discuss or contribution.
 
 ## License
 
-· MIT, for further details, please see [LICENSE] https://github.com/Pyzyryab/PyMonokai/blob/master/LICENSE.txt
+· MIT, for further details, please see [LICENSE.txt] https://github.com/Pyzyryab/PyMonokai/blob/master/LICENSE.txt
 
 
 ## Support
