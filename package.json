@@ -1,0 +1,49 @@
+{
+	"name": "pymonokai",
+	"displayName": "PyMonokai",
+	"description": "A Monokai plus One Dark theme that completly functions for Python in VSC",
+	"version": "1.0.1",
+	"author": "Alex Vergara <alex10.vergara@gmail.com> (https://github.com/Pyzyryab/)",
+	"license": "MIT",
+	"homepage": "https://github.com/Pyzyryab/PyMonokai",
+	"publisher": "PyZyryab",
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"categories": [
+		"Themes",
+		"Programming Languages", 
+		"Other"
+	],
+	
+	"icon": "images/ico.png",
+	
+	"contributes": {
+		"themes": [
+			{
+				"label": "PyMonokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/PyMonokai.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Pyzyryab/PyMonokai"
+	},
+	"bugs": {
+		"url": "https://github.com/Pyzyryab/PyMonokai/issues"
+	},
+	
+	"keywords": [
+		"vscode",
+		"theme",
+		"Python",
+		"onedark",
+		"monokai",
+		"darker",
+		"visual studio",
+		"ide"
+	]
+
+}
