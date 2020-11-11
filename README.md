@@ -1,4 +1,4 @@
-# [PyMonokai]
+# PyMonokai
 
 A darker variation of Monokai and One Dark Pro, with improved features to Python syntax linting.
 
