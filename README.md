@@ -16,7 +16,7 @@ A darker variation of Monokai and One Dark Pro, with improved features to Python
 
 ## Contributing
 
-· Icon made by [Freepik] from (https://www.flaticon.com)
+· Icon made by Freepik from https://www.flaticon.com
 
 · See [contributors.md](https://github.com/Pyzyryab/PyMonokai/blob/master/contributors.md)
 
@@ -30,7 +30,7 @@ A specific new set of colors are open to discuss or contribution.
 
 ## License
 
-· MIT, for further details, please see [LICENSE.txt] https://github.com/Pyzyryab/PyMonokai/blob/master/LICENSE.txt
+· MIT, for further details, please see [LICENSE.md] https://github.com/Pyzyryab/PyMonokai/blob/master/LICENSE.txt
 
 
 ## Support
