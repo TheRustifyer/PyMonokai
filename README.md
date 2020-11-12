@@ -2,7 +2,7 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/alexvergara10.pymonokai.svg)](https://marketplace.visualstudio.com/items?itemName=alexvergara10.pymonokai)
 [![Downloads](https://img.shields.io/vscode-marketplace/r/alexvergara10.pymonokai.svg)](https://marketplace.visualstudio.com/items?itemName=alexvergara10.pymonokai)
 
-A darker variation of `Monokai` and `One Dark Pro`, with improved features to Python syntax linting which usually fails on VSCE themes.
+A darker variation of `Monokai` and `One Dark Pro`, with improved features to Python syntax linting where usually VSCE themes fails.
 
 
 ## Screenshots
