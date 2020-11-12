@@ -51,7 +51,7 @@ A specific new set of colors are open to discuss or contribution.
 
 ## License
 
-· MIT, for further details, please see [LICENSE.md] (https://github.com/Pyzyryab/PyMonokai/blob/master/LICENSE.txt)
+· MIT, for further details, please see [LICENSE.md] (https://github.com/Pyzyryab/PyMonokai/blob/master/LICENSE.md)
 
 
 ## Support
