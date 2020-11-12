@@ -6,7 +6,7 @@
 	"author": "Alex Vergara <alex10.vergara@gmail.com> (https://github.com/Pyzyryab/)",
 	"license": "MIT",
 	"homepage": "https://github.com/Pyzyryab/PyMonokai",
-	"publisher": "PyZyryab",
+	"publisher": "alexvergara10",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
