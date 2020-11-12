@@ -11,7 +11,7 @@ A darker variation of Monokai and One Dark Pro, with improved features to Python
 
 ## Requirements
 
-· Visual Studio Code (http://code.visualstudio.com/)
+· Visual Studio Code https://code.visualstudio.com/
 
 
 ## Contributing
