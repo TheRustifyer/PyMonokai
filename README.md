@@ -20,18 +20,18 @@ A darker variation of `Monokai` and `One Dark Pro`, with improved features to Py
 ### On `vsce`
 
 Install `PyMonokai` via Package Control.
-
+ 
 ```
 1. Open the Command Palette via <kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>
 2. Select *Package Control: Install Package*
-3. Search for `PyMonokai` and press <kbd>↲ Enter</kbd>
+3. Search for PyMonokai and press <kbd>↲ Enter</kbd>
 ```
 
 ### Manually
 
 ```
-1. Clone or download this repository, (re)name the folder to `PyMonokai` if necessary.
-2. Move the folder inside your `.vscode` extensions folder. (*C:\Users\your_user_here\.vscode\extensions*)
+1. Clone or download this repository, (re)name the folder to PyMonokai if necessary.
+2. Move the folder inside your .vscode extensions folder. (*C:\Users\your_user_here\.vscode\extensions*)
 ```
 
 
