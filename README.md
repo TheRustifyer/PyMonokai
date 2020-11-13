@@ -24,7 +24,7 @@ A darker variation of `Monokai` and `One Dark Pro`, with improved features to Py
 Install `PyMonokai` via Package Control.
  
 ```
-1. Open the Command Palette via Ctrl</⌘ + Shift + p
+1. Open the Command Palette via Ctrl/⌘ + Shift + P
 2. Select *Package Control: Install Package*
 3. Search for PyMonokai and press ↲ Enter
 ```
